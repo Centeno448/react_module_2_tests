@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-    <TareasLista tareas={tareas}/>
+    <TareasLista />
     <input type="text" />
     <button>Añadir Tarea</button>
     <button>Limpiar Tareas Completadas</button>
